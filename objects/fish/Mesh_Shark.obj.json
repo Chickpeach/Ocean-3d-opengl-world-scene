@@ -1,0 +1,15 @@
+{
+  "created_at": "2024-11-20T02:07:34.110558",
+  "version": "0.1",
+  "mtllibs": [
+    "Mesh_Shark.mtl"
+  ],
+  "vertex_buffers": [
+    {
+      "material": "lambert2SG",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 0,
+      "byte_length": 47424
+    }
+  ]
+}
